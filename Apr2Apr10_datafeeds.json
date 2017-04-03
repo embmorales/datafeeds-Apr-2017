@@ -24,10 +24,10 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/all-products/",
-    "Headline": "PAYDAY SALE! Use code : MIDPAY and get extra 15% off",
-    "Subline": "Ends April 3, 12 noon. No minimum spend",
-    "EventLabel": "SAL|Women|wmsspaydaysale|ALL|NA"
+    "Exit Url": "https://support.zalora.com.ph/hc/en-us/articles/206158666-Express-Delivery",
+    "Headline": "Order now, get it tomorrow for only P50!",
+    "Subline": "Enjoy next working day delivery for only P50 (limited time offer!). Valid only for items marked applicable for express shipping and orders placed before 9:30 p.m. Available for select areas in Metro Manila. Click to find out more.",
+    "EventLabel": "NA|Women|wexpressshipping|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -97,7 +97,7 @@
     "Exit Url": "/women/clothing/?q=off%20shoulder",
     "Headline": "DARE TO BARE",
     "Subline": "Light and breezy tops & dresses for the hot summer",
-    "EventLabel": "SAL-CAT|Women|weyewearupto50off|ALL|NA"
+    "EventLabel": "SAL-CAT|Women|wdaretobare|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -234,10 +234,10 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/all-products/",
-    "Headline": "PAYDAY SALE! Use code : MIDPAY and get extra 15% off",
-    "Subline": "Ends April 3, 12 noon. No minimum spend",
-    "EventLabel": "SAL|Men|mmsspaydaysale|ALL|NA"
+    "Exit Url": "https://support.zalora.com.ph/hc/en-us/articles/206158666-Express-Delivery",
+    "Headline": "Order now, get it tomorrow for only P50!",
+    "Subline": "Enjoy next working day delivery for only P50 (limited time offer!). Valid only for items marked applicable for express shipping and orders placed before 9:30 p.m. Available for select areas in Metro Manila. Click to find out more.",
+    "EventLabel": "NA|Men|mexpressshipping|ALL|NA"
   },
   {
     "Placement": "mh1",
