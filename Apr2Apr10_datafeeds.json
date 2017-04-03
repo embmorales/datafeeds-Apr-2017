@@ -45,7 +45,7 @@
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_Swimwear_upto50off.jpg",
     "Exit Url": "/women/clothing/swimwear-bikinis/special-price/",
-    "Headline": "<span style = \"color: #ff0000\">SWIMWEAR UP TO 50% OFF</span>",
+    "Headline": "SWIMWEAR UP TO 50% OFF",
     "Subline": "Soak up the sun in these swimwear styles at great discounts",
     "EventLabel": "SAL-CAT|Women|wswimwearupto50off|ALL|NA"
   },
@@ -255,7 +255,7 @@
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/N1_320x420_Backpacks_upto50off.jpg",
     "Exit Url": "/men/bags/backpacks/special-price/",
-    "Headline": "<span style = \"color: #ff0000\">BACKPACKS UP TO 50% OFF</span>",
+    "Headline": "BACKPACKS UP TO 50% OFF",
     "Subline": "Pack your essentials in style",
     "EventLabel": "SAL-CAT|Men|wbackpacksupto50off|ALL|NA"
   },
@@ -465,7 +465,7 @@
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Backpacks_upto50off.jpg",
     "Exit Url": "/men/bags/backpacks/special-price/",
-    "Headline": "<span style = \"color: #ff0000\">BACKPACKS UP TO 50% OFF</span>",
+    "Headline": "BACKPACKS UP TO 50% OFF",
     "Subline": "Pack your essentials in style",
     "EventLabel": "SAL-CAT|Men|wbackpacksupto50off|ALL|NA"
   },
@@ -515,7 +515,7 @@
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/Homepage Banner_322x300_Swimwear_upto50off.jpg",
     "Exit Url": "/women/clothing/swimwear-bikinis/special-price/",
-    "Headline": "<span style = \"color: #ff0000\">SWIMWEAR UP TO 50% OFF</span>",
+    "Headline": "SWIMWEAR UP TO 50% OFF",
     "Subline": "Soak up the sun in these swimwear styles at great discounts",
     "EventLabel": "SAL-CAT|Women|wswimwearupto50off|ALL|NA"
   },
