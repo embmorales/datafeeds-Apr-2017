@@ -26,7 +26,7 @@
     "Image": "NA",
     "Exit Url": "/men/all-products/",
     "Headline": "PAYDAY SALE! Use code : MIDPAY and get extra 15% off",
-    "Subline": "Applicable only on items on this page",
+    "Subline": "Ends April 3, 12 noon. No minimum spend",
     "EventLabel": "SAL|Women|wmsspaydaysale|ALL|NA"
   },
   {
@@ -224,7 +224,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/topman/",
+    "Exit Url": "/men/topman/",
     "Headline": "Topman now on ZALORA",
     "Subline": "Shop now!",
     "EventLabel": "BRA|Men|mtopmanlaunch|ALL|NA"
@@ -234,9 +234,9 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/all-products/",
+    "Exit Url": "/men/all-products/",
     "Headline": "PAYDAY SALE! Use code : MIDPAY and get extra 15% off",
-    "Subline": "Applicable only on items on this page",
+    "Subline": "Ends April 3, 12 noon. No minimum spend",
     "EventLabel": "SAL|Men|mmsspaydaysale|ALL|NA"
   },
   {
