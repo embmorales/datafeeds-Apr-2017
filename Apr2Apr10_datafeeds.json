@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/topshop/",
+    "Headline": "Topshop now on ZALORA",
+    "Subline": "Shop now!",
+    "EventLabel": "BRA|Women|wtopshoplaunch|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/",
+    "Headline": "PAYDAY SALE! Use code : MIDPAY and get extra 15% off",
+    "Subline": "Applicable only on items on this page",
+    "EventLabel": "SAL|Women|wmsspaydaysale|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/hero_topshop_study2_withcta.jpg",
+    "Exit Url": "/women/topshop/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wtopshoplaunch|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_Swimwear_upto50off.jpg",
+    "Exit Url": "/women/clothing/swimwear-bikinis/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">SWIMWEAR UP TO 50% OFF</span>",
+    "Subline": "Soak up the sun in these swimwear styles at great discounts",
+    "EventLabel": "SAL-CAT|Women|wswimwearupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Lipault-New-Arrivals.jpg",
+    "Exit Url": "/women/lipault/?sort=latest%20arrival",
+    "Headline": "LIPAULT NEW ARRIVALS",
+    "Subline": "Get a taste of Paris with these elegant, minimalist designs",
+    "EventLabel": "BRA|Women|wlipaultnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_YouGotFramed.jpg",
+    "Exit Url": "/women/accessories/eyewear-sunglasses/special-price/",
+    "Headline": "YOU GOT FRAMED",
+    "Subline": "Find the perfect summer essential from our collection of sunglasses up to 50% off",
+    "EventLabel": "SAL-CAT|Women|weyewearupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CU3_360x420-MAdeyoublush.jpg",
+    "Exit Url": "/women/beauty/blushers-bronzers/",
+    "Headline": "MADE YOU BLUSH",
+    "Subline": "Top your look with a pop of color",
+    "EventLabel": "CAT|Women|wmadeyoublush|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/cu2 360x420_Shapesandcurves_ZAP.jpg",
+    "Exit Url": "/women/shapes-and-curves/new-products/",
+    "Headline": "SHAPES AND CURVES NEW ARRIVALS",
+    "Subline": "Fresh picks for the summer season",
+    "EventLabel": "BRA|Women|wshapesandcurves|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/cu4 620x420_DareTobare_offshoulder.png",
+    "Exit Url": "/women/clothing/q=off%20shoulder",
+    "Headline": "DARE TO BARE",
+    "Subline": "Light and breezy tops & dresses for the hot summer",
+    "EventLabel": "SAL-CAT|Women|weyewearupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170331_FB_Zalora_322x165.jpg",
+    "Exit Url": "/women/zalora/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wzalora|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170331_FB_ShapesCurves_322x165.jpg",
+    "Exit Url": "/women/shapes-and-curves/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wshapesandcurves|ALL|ZAP"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170331_FB_Factorie_322x165.jpg",
+    "Exit Url": "/women/factorie/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wfactorie|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170331_FB_CIS_322x165.jpg",
+    "Exit Url": "/women/call-it-spring/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wcallitspring|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170331_FB_Maxfactor_322x165.jpg",
+    "Exit Url": "/women/beauty/max-factor/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wmaxfactor|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170331_FB_Underamour_B1-6_322x165.jpg",
+    "Exit Url": "/women/under-armour/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wunderarmour|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Heels.jpg",
+    "Exit Url": "/women/shoes/heels",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|mmssheels|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Make Up.jpg",
+    "Exit Url": "/women/beauty/make-up",
+    "Headline": "Shop Make up >",
+    "Subline": "Shop Make up >",
+    "EventLabel": "CAT|Women|mmssmakeup|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Dresses.jpg",
+    "Exit Url": "/women/clothing/dresses",
+    "Headline": "Shop Dresses >",
+    "Subline": "Shop Dresses >",
+    "EventLabel": "CAT|Women|mmssdresses|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Handbags.jpg",
+    "Exit Url": "/women/bags/handbags",
+    "Headline": "Shop Handbags >",
+    "Subline": "Shop Handbags >",
+    "EventLabel": "CAT|Women|mmsshandbags|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Sport Shoes.jpg",
+    "Exit Url": "/women/sports/sports-footwear",
+    "Headline": "Shop Sports Shoes >",
+    "Subline": "Shop Sports Shoes >",
+    "EventLabel": "CAT|Women|mmsssportsshoes|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/topman/",
+    "Headline": "Topman now on ZALORA",
+    "Subline": "Shop now!",
+    "EventLabel": "BRA|Men|mtopmanlaunch|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/",
+    "Headline": "PAYDAY SALE! Use code : MIDPAY and get extra 15% off",
+    "Subline": "Applicable only on items on this page",
+    "EventLabel": "SAL|Men|mmsspaydaysale|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/hero-topman-study-4_topman.jpg",
+    "Exit Url": "/men/topman",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mtopmanlaunch|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_320x420_Backpacks_upto50off.jpg",
+    "Exit Url": "/men/bags/backpacks/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">BACKPACKS UP TO 50% OFF</span>",
+    "Subline": "Pack your essentials in style",
+    "EventLabel": "SAL-CAT|Men|wbackpacksupto50off|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_buy3get30off.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=mss-buy3get30off",
+    "Headline": "Buy 3 or More, Get 30% off",
+    "Subline": "Spend less when you add more to your order",
+    "EventLabel": "SAL|Men|mbuy3get30off|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/FB_20170331_Timberland_B1-6_322x165.jpg",
+    "Exit Url": "/men/timberland/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|wtimberland|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/FB_20170331_ZALORA_B1-6_322x165.jpg",
+    "Exit Url": "/men/zalora/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|wzalora|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/FB_20170331_Underarmour_B1-6_322x165.jpg",
+    "Exit Url": "/men/under-armour/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|wunderarmour|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/FB_20170331_Jaxon_322x165.jpg",
+    "Exit Url": "/men/jaxon/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|wjaxon|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/FB_20170331_2401_featured-brand_322x165.jpg",
+    "Exit Url": "/men/24-01/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|w2401|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/FB_20170331_Parkland_322x165.jpg",
+    "Exit Url": "/men/special-price/parkland/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|wparkland|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Watches.jpg",
+    "Exit Url": "/men/watches",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "CAT|Men|mmsswatches|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Sunglasses.jpg",
+    "Exit Url": "/men/accessories/eyewear-sunglasses",
+    "Headline": "Shop Sunglasses >",
+    "Subline": "Shop Sunglasses >",
+    "EventLabel": "CAT|Men|mmsssunglasses|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Polo Shirts.jpg",
+    "Exit Url": "/men/clothing/polo-shirts",
+    "Headline": "Shop Polo Shirts >",
+    "Subline": "Shop Polo Shirts >",
+    "EventLabel": "CAT|Men|mmsspoloshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Swimwear.jpg",
+    "Exit Url": "/men/clothing/swimwear",
+    "Headline": "Shop Swimwear >",
+    "Subline": "Shop Swimwear >",
+    "EventLabel": "CAT|Men|mmssswimwear|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Sports Lifestyle.jpg",
+    "Exit Url": "/men/sports/sports-lifestyle",
+    "Headline": "Shop Sports Lifestyle >",
+    "Subline": "Shop Sports Lifestyle >",
+    "EventLabel": "CAT|Men|mmsssportslifestyle|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/onsite_700x200_topshop.jpg",
+    "Exit Url": "/women/topshop/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wtopshoplaunch|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb_hero_600x600_topshop.jpg",
+    "Exit Url": "/women/topshop/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wtopshoplaunch|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/NCU1_620x420_Swimwear_upto50off.jpg",
+    "Exit Url": "/women/clothing/swimwear-bikinis/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">SWIMWEAR UP TO 50% OFF</span>",
+    "Subline": "Soak up the sun in these swimwear styles at great discounts",
+    "EventLabel": "SAL-CAT|Women|wswimwearupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Lipault-New-Arrivals.jpg",
+    "Exit Url": "/women/lipault/?sort=latest%20arrival",
+    "Headline": "LIPAULT NEW ARRIVALS",
+    "Subline": "Get a taste of Paris with these elegant, minimalist designs",
+    "EventLabel": "BRA|Women|wlipaultnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Heels.jpg",
+    "Exit Url": "/women/shoes/heels",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|mmssheels|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Women_Cat_Handbags.jpg",
+    "Exit Url": "/women/bags/handbags",
+    "Headline": "Shop Handbags >",
+    "Subline": "Shop Handbags >",
+    "EventLabel": "CAT|Women|mmsshandbags|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/700x200_topman.jpg",
+    "Exit Url": "/men/topman",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mtopmanlaunch|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/mobileweb_hero_600x600_topman.jpg",
+    "Exit Url": "/men/topman",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mtopmanlaunch|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Backpacks_upto50off.jpg",
+    "Exit Url": "/men/bags/backpacks/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">BACKPACKS UP TO 50% OFF</span>",
+    "Subline": "Pack your essentials in style",
+    "EventLabel": "SAL-CAT|Men|wbackpacksupto50off|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_buy3get30off.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=mss-buy3get30off",
+    "Headline": "Buy 3 or More, Get 30% off",
+    "Subline": "Spend less when you add more to your order",
+    "EventLabel": "SAL|Men|mbuy3get30off|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Sports Lifestyle.jpg",
+    "Exit Url": "/men/sports/sports-lifestyle",
+    "Headline": "Shop Sports Lifestyle >",
+    "Subline": "Shop Sports Lifestyle >",
+    "EventLabel": "CAT|Men|mmsssportslifestyle|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_1-2_Men_Cat_Swimwear.jpg",
+    "Exit Url": "/men/clothing/swimwear",
+    "Headline": "Shop Swimwear >",
+    "Subline": "Shop Swimwear >",
+    "EventLabel": "CAT|Men|mmssswimwear|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Homepage Banner_322x300_Swimwear_upto50off.jpg",
+    "Exit Url": "/women/clothing/swimwear-bikinis/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">SWIMWEAR UP TO 50% OFF</span>",
+    "Subline": "Soak up the sun in these swimwear styles at great discounts",
+    "EventLabel": "SAL-CAT|Women|wswimwearupto50off|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/ASNTM5_homepage_bottom.jpg",
+    "Exit Url": "/women/asias-next-top-model-5/",
+    "Headline": "ASNTM S5",
+    "Subline": "Episode 1 - Nude Neutrals",
+    "EventLabel": "RET|Women|wasntms5episode1|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x300_YouGotFramed.jpg",
+    "Exit Url": "/women/accessories/eyewear-sunglasses/special-price/",
+    "Headline": "YOU GOT FRAMED",
+    "Subline": "Find the perfect summer essential from our collection of sunglasses up to 50% off",
+    "EventLabel": "SAL-CAT|Women|weyewearupto50off|ALL|NA"
+  }
+]
