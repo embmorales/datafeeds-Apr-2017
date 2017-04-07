@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/?cmpgn_two=mss-lastchance",
+    "Headline": "Grab the last pieces of these bestsellers",
+    "Subline": "Shop Now!",
+    "EventLabel": "SAL|Women|wmsslastchance|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/special-price/",
+    "Headline": "MID SEASON SALE - <span style = \"color: #f8fc88\">Up to 70% Off</span>",
+    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
+    "EventLabel": "SAL|Women|wmssomnibusupto70off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/segment hero 996x500_MSS_Phase_2_upto70off.jpg",
+    "Exit Url": "/women/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmssomnibusupto70off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_320x420_Pants up to 50off.jpg",
+    "Exit Url": "/women/clothing/pants/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">PANTS UP TO 50% OFF</span>",
+    "Subline": "Bottom's Up! Top off your look with these classy pants",
+    "EventLabel": "SAL-CAT|Women|wmsspantsupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Phase2_Last_Chance.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=mss-lastchance",
+    "Headline": "<span style = \"color: #ff0000\">LAST CHANCE</span>",
+    "Subline": "Grab the last pieces of these bestsellers",
+    "EventLabel": "SAL|Women|wmsslastchance|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CU1_620x420_MSS Everything at P1000.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=200-1000",
+    "Headline": "<span style = \"color: #ff0000\">EVERYTHING AT P1,000 AND BELOW </span>",
+    "Subline": "Here's the perfect reason to splurge",
+    "EventLabel": "SAL|Women|wmsseverythingatP1000|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CU2_360x420_WalkThisWay.jpg",
+    "Exit Url": "/women/shoes/new-products/?sort=popularity&price=299-999",
+    "Headline": "<span style = \"color: #ff0000\">WALK THIS WAY</span>",
+    "Subline": "Shop our latest collection of footwear at P999 and below",
+    "EventLabel": "SAL|Women|wmssfootwearatP999|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_MSS Eyes on you.jpg",
+    "Exit Url": "/women/beauty/eyes/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">EYES ON YOU</span>",
+    "Subline": "Eye-enhancing makeup on markdowns",
+    "EventLabel": "SAL-CAT|Women|wmsseyesonyou|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_MSS_Blouses up to 50 off.jpg",
+    "Exit Url": "/women/clothing/blouses/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">BLOUSES UP TO 50% OFF</span>",
+    "Subline": "Button up and browse our collection of stylish blouses",
+    "EventLabel": "SAL|Women|wmssblousesupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W-MSS_PHASE2_FB_SomethingBorrowed_FeaturedBrand_322x165.jpg",
+    "Exit Url": "/women/something-borrowed/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wsomethingborrowed|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W-MSS_PHASE2_FB_Velvet_FeaturedBrand_322x165.jpg",
+    "Exit Url": "/women/shoes/velvet/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wvelvet|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W-MSS_PHASE2_FB_Rubi_FeaturedBrand_322x165.jpg",
+    "Exit Url": "/women/shoes/rubi/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wrubi|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W-MSS_PHASE2_FB_Betsy_FeaturedBrand_322x165.jpg",
+    "Exit Url": "/women/shoes/betsy/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wbetsy|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W-MSS_PHASE2_FB_Missguided_FeaturedBrand_322x165.jpg",
+    "Exit Url": "/women/clothing/missguided/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wmissguided|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W-MSS_PHASE2_FB_Sleek_FeaturedBrand_322x165.jpg",
+    "Exit Url": "/women/beauty/sleek-makeup/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wsleekmakeup|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_MSSPhase2_Sandals_300x198.jpg",
+    "Exit Url": "/women/shoes/sandals/special-price/",
+    "Headline": "Shop Sandals >",
+    "Subline": "Shop Sandals >",
+    "EventLabel": "SAL-CAT|Women|wmsssandals|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_MSSPhase2_Fragrance_300x198.jpg",
+    "Exit Url": "/women/beauty/fragrances/special-price/",
+    "Headline": "Shop Fragrances >",
+    "Subline": "Shop Fragrances >",
+    "EventLabel": "SAL-CAT|Women|wmssfragrances|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_MSSPhase2_Swimwear_375x500.jpg",
+    "Exit Url": "/women/clothing/swimwear-bikinis/special-price/",
+    "Headline": "Shop Swimwear >",
+    "Subline": "Shop Swimwear >",
+    "EventLabel": "SAL-CAT|Women|wmssswimwear|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_MSSPhase2_Playsuits_300x198.jpg",
+    "Exit Url": "/women/clothing/short-jumpsuits/special-price/",
+    "Headline": "Shop Playsuits >",
+    "Subline": "Shop Playsuits >",
+    "EventLabel": "SAL-CAT|Women|wmssplaysuits|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_MSSPhase2_Cross Body Bags_300x198.jpg",
+    "Exit Url": "/women/bags/cross-body-bags/special-price/",
+    "Headline": "Shop Cross Body Bags >",
+    "Subline": "Shop Cross Body Bags >",
+    "EventLabel": "SAL-CAT|Women|wmsscrossbodybags|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/?cmpgn_two=mss-lastchance",
+    "Headline": "Grab the last pieces of these best sellers",
+    "Subline": "Shop Now!",
+    "EventLabel": "SAL|Men|mmsslastchance|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/special-price/",
+    "Headline": "MID SEASON SALE - <span style = \"color: #f8fc88\">Up to 70% Off</span>",
+    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
+    "EventLabel": "SAL|Men|mmssomnibusupto70off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/segment hero 996x500_MSS_Phase_2_upto70off.jpg",
+    "Exit Url": "/men/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mmssomnibusupto70off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/360x420_MSS_Phase2_Everything at P1000.jpg",
+    "Exit Url": "/men/all-products/?sort=popularity&price=200-1000",
+    "Headline": "<span style = \"color: #ff0000\">Everything at P1,000 & Below</span>",
+    "Subline": "Here's the perfect reason to splurge",
+    "EventLabel": "SAL|Men|mmsseverythingbelow1000|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Phase2_LastChance-M.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=mss-lastchance",
+    "Headline": "<span style = \"color: #ff0000\">LAST CHANCE</span>",
+    "Subline": "Limited sizes left on selected styles",
+    "EventLabel": "SAL|Men|mmsslastchance|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_PHASE2_FB_Factorie_B1-6_322x165.jpg",
+    "Exit Url": "/men/special-price/factorie/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mfactorie|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_PHASE2_FB_Mango_B1-6_322x165.jpg",
+    "Exit Url": "/men/special-price/mango-man/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mmangoman|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_PHASE2_FB_Dsk_322x165_Birkenstock.png",
+    "Exit Url": "/men/special-price/birkenstock/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mbirkenstock|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_PHASE2_FB_Rayban_B1-6_322x165.jpg",
+    "Exit Url": "/men/special-price/ray-ban/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mrayban|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_PHASE2_FB_Dsk_322x165_BNY.png",
+    "Exit Url": "/men/special-price/bny/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|mbny|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_PHASE2_FB_invicta-featuredbrand.jpg",
+    "Exit Url": "/men/special-price/invicta/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|minvicta|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_tshirts_374x500.jpg",
+    "Exit Url": "/men/clothing/t-shirts/new-products/",
+    "Headline": "Shop T-shirts >",
+    "Subline": "",
+    "EventLabel": "SAL-CAT|Men|mmsstshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_bodybags_296x195.jpg",
+    "Exit Url": "/men/bags/body-bags/new-products/",
+    "Headline": "Shop Body Bags >",
+    "Subline": "",
+    "EventLabel": "SAL-CAT|Men|mmssbodybags|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_accessories_296x195.jpg",
+    "Exit Url": "/men/accessories/new-products/",
+    "Headline": "Shop Accessories >",
+    "Subline": "",
+    "EventLabel": "SAL-CAT|Men|mmssaccessories|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_jeans_296x195.jpg",
+    "Exit Url": "/men/clothing/jeans/new-products/",
+    "Headline": "Shop Jeans >",
+    "Subline": "",
+    "EventLabel": "SAL-CAT|Men|mmssjeans|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_loafers_296x195.jpg",
+    "Exit Url": "/men/shoes/loafers-moccasins/",
+    "Headline": "Shop Loafers >",
+    "Subline": "",
+    "EventLabel": "SAL-CAT|Men|mmssloafers|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/700x200_Phase2_Last_Chance.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=mss-lastchance",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmsslastchance|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/web hero 600x600_MSS_Phase_2_upto70off.jpg",
+    "Exit Url": "/women/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wmssomnibusupto70off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/NCU1_620x420_Pants up to 50off.jpg",
+    "Exit Url": "/women/clothing/pants/special-price/",
+    "Headline": "<span style = \"color: #ff0000\">PANTS UP TO 50% OFF</span>",
+    "Subline": "Bottom's Up! Top off your look with these classy pants",
+    "EventLabel": "SAL-CAT|Women|wmsspantsupto50off|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_Phase2_Last_Chance.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=mss-lastchance",
+    "Headline": "<span style = \"color: #ff0000\">LAST CHANCE</span>",
+    "Subline": "Grab the last pieces of these bestsellers",
+    "EventLabel": "SAL|Women|wmsslastchance|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_MSSPhase2_Playsuits_300x198.jpg",
+    "Exit Url": "/women/clothing/short-jumpsuits/special-price/",
+    "Headline": "Shop Playsuits >",
+    "Subline": "Shop Playsuits >",
+    "EventLabel": "SAL-CAT|Women|mmssplaysuits|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_MSSPhase2_Sandals_300x198.jpg",
+    "Exit Url": "/women/shoes/sandals/special-price/",
+    "Headline": "Shop Sandals >",
+    "Subline": "Shop Sandals >",
+    "EventLabel": "SAL-CAT|Women|mmsssandals|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/700x200_MSS_Phase2_Everything at P1000.jpg",
+    "Exit Url": "/men/all-products/?sort=popularity&price=200-1000",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mmsseverythingbelow1000|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/segment hero 996x500_MSS_Phase_2_upto70off.jpg",
+    "Exit Url": "/men/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|mmssomnibusupto70off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/620x420_MSS_Phase2_Everything at P1000.jpg",
+    "Exit Url": "/men/all-products/?sort=popularity&price=200-1000",
+    "Headline": "<span style = \"color: #ff0000\">Everything at P1,000 & Below</span>",
+    "Subline": "Here's the perfect reason to splurge",
+    "EventLabel": "SAL|Men|mmsseverythingbelow1000|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Phase2_LastChance-M.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=mss-lastchance",
+    "Headline": "<span style = \"color: #ff0000\">LAST CHANCE</span>",
+    "Subline": "Limited sizes left on selected styles",
+    "EventLabel": "SAL|Men|mmsslastchance|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_tshirts_374x500.jpg",
+    "Exit Url": "/men/clothing/t-shirts/new-products/",
+    "Headline": "Shop T-shirts >",
+    "Subline": "Shop T-shirts >",
+    "EventLabel": "SAL-CAT|Men|mmsstshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_accessories_296x195.jpg",
+    "Exit Url": "/men/accessories/new-products/",
+    "Headline": "Shop Accessories >",
+    "Subline": "Shop Accessories >",
+    "EventLabel": "SAL-CAT|Men|mmssaccessories|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/homepage 996x500_MSS_Phase_2_upto70off.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Unisex|mssomnibusupto70off|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Homepage_322x300_MSS Everything at P1000.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=200-1000",
+    "Headline": "<span style = \"color: #ff0000\">EVERYTHING AT P1,000 AND BELOW </span>",
+    "Subline": "Here's the perfect reason to splurge",
+    "EventLabel": "SAL|Women|wmsseverythingatP1000|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x300_Phase2_Last_Chance.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=mss-lastchance",
+    "Headline": "<span style = \"color: #ff0000\">LAST CHANCE</span>",
+    "Subline": "Grab the last pieces of these bestsellers",
+    "EventLabel": "SAL|Women|wmsslastchance|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Homepage Banner_322x300_Phase2_LastChance-M.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=mss-lastchance",
+    "Headline": "<span style = \"color: #ff0000\">LAST CHANCE</span>",
+    "Subline": "Limited sizes left on selected styles",
+    "EventLabel": "SAL|Men|mmsslastchance|ALL|NA"
+  }
+]
