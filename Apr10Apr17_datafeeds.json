@@ -333,11 +333,11 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_tshirts_374x500.jpg",
-    "Exit Url": "/men/clothing/t-shirts/new-products/",
-    "Headline": "Shop T-shirts >",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_accessories_296x195.jpg",
+    "Exit Url": "/men/accessories/new-products/",
+    "Headline": "Shop Accessories >",
     "Subline": "",
-    "EventLabel": "SAL-CAT|Men|mmsstshirts|ALL|NA"
+    "EventLabel": "SAL-CAT|Men|mmssaccessories|ALL|NA"
   },
   {
     "Placement": "mc2",
@@ -353,11 +353,11 @@
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_accessories_296x195.jpg",
-    "Exit Url": "/men/accessories/new-products/",
-    "Headline": "Shop Accessories >",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_tshirts_374x500.jpg",
+    "Exit Url": "/men/clothing/t-shirts/new-products/",
+    "Headline": "Shop T-shirts >",
     "Subline": "",
-    "EventLabel": "SAL-CAT|Men|mmssaccessories|ALL|NA"
+    "EventLabel": "SAL-CAT|Men|mmsstshirts|ALL|NA"
   },
   {
     "Placement": "mc4",
