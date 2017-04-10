@@ -483,11 +483,11 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_tshirts_374x500.jpg",
-    "Exit Url": "/men/clothing/t-shirts/new-products/",
-    "Headline": "Shop T-shirts >",
-    "Subline": "Shop T-shirts >",
-    "EventLabel": "SAL-CAT|Men|mmsstshirts|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_MSSPhase2_jeans_296x195.jpg",
+    "Exit Url": "/men/clothing/jeans/new-products/",
+    "Headline": "Shop Jeans >",
+    "Subline": "",
+    "EventLabel": "SAL-CAT|Men|mmssjeans|ALL|NA"
   },
   {
     "Placement": "mc2",
