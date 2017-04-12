@@ -4,40 +4,40 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/special-price/",
+    "Headline": "Up to 70% off + <span style = \"color: #f8fc88\">Extra P300 off Sitewide</span> Use Code: WEEKEND300",
+    "Subline": "Min spend P1,800 <br>Valid on sale. Brand exclusions apply",
+    "EventLabel": "SAL|Women|wmssweekendsale300off|ALL|NA"
   },
   {
     "Placement": "wsl1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/all-products/?cmpgn_two=mss-lastchance",
-    "Headline": "Grab the last pieces of these bestsellers",
-    "Subline": "Shop Now!",
-    "EventLabel": "SAL|Women|wmsslastchance|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/special-price/",
-    "Headline": "MID SEASON SALE - <span style = \"color: #f8fc88\">Up to 70% Off</span>",
-    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
-    "EventLabel": "SAL|Women|wmssomnibusupto70off|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/segment hero 996x500_MSS_Phase_2_upto70off.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/WEEKENDSALE_300off_segment_hero_996x500.jpg",
     "Exit Url": "/women/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wmssomnibusupto70off|ALL|NA"
+    "EventLabel": "SAL|Women|wmssweekendsale300off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -214,40 +214,40 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/special-price/",
+    "Headline": "Up to 70% off + <span style = \"color: #f8fc88\">Extra P300 off Sitewide</span> Use Code: WEEKEND300",
+    "Subline": "Min spend P1,800 <br>Valid on sale. Brand exclusions apply",
+    "EventLabel": "SAL|Men|mmssweekendsale300off|ALL|NA"
   },
   {
     "Placement": "msl1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/all-products/?cmpgn_two=mss-lastchance",
-    "Headline": "Grab the last pieces of these best sellers",
-    "Subline": "Shop Now!",
-    "EventLabel": "SAL|Men|mmsslastchance|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/special-price/",
-    "Headline": "MID SEASON SALE - <span style = \"color: #f8fc88\">Up to 70% Off</span>",
-    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
-    "EventLabel": "SAL|Men|mmssomnibusupto70off|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/segment hero 996x500_MSS_Phase_2_upto70off.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/WEEKENDSALE_300off_segment_hero_996x500.jpg",
     "Exit Url": "/men/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|mmssomnibusupto70off|ALL|NA"
+    "EventLabel": "SAL|Men|mmssweekendsale300off|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -383,21 +383,21 @@
     "Placement": "ws1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/700x200_Phase2_Last_Chance.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_two=mss-lastchance",
+    "Image": "https://static-ph.zacdn.com/cms/DY/WEEKENDSALE_300off_mobileweb_skinnyGIF_700x200.gif",
+    "Exit Url": "/women/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wmsslastchance|ALL|NA"
+    "EventLabel": "SAL|Women|wmssweekendsale300off|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/web hero 600x600_MSS_Phase_2_upto70off.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/weekendsale300off_mobileweb_hero_600x600.jpg",
     "Exit Url": "/women/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wmssomnibusupto70off|ALL|NA"
+    "EventLabel": "SAL|Women|wmssweekendsale300off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -443,21 +443,21 @@
     "Placement": "ms1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/700x200_MSS_Phase2_Everything at P1000.jpg",
-    "Exit Url": "/men/all-products/?sort=popularity&price=200-1000",
+    "Image": "https://static-ph.zacdn.com/cms/DY/WEEKENDSALE_300off_mobileweb_skinnyGIF_700x200.gif",
+    "Exit Url": "/men/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|mmsseverythingbelow1000|ALL|NA"
+    "EventLabel": "SAL|Men|mmssweekendsale300off|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/web hero 600x600_MSS_Phase_2_upto70off.jpg",
-    "Exit Url": "/men/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/weekendsale300off_mobileweb_hero_600x600.jpg",
+    "Exit Url": "/women/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|mmssomnibusupto70off|ALL|NA"
+    "EventLabel": "SAL|Men|mmssweekendsale300off|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -503,11 +503,11 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/homepage 996x500_MSS_Phase_2_upto70off.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/WEEKENDSALE_300off_LP_996x250.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Unisex|mssomnibusupto70off|ALL|NA"
+    "EventLabel": "SAL|Unisex|mssweekendsale300off|ALL|NA"
   },
   {
     "Placement": "ub1",
