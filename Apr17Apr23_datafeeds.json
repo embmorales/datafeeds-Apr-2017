@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/hollister/?getSKU=%20HO422AA47GKQMY--HO422AA44GKTMY--HO422AA42GKVMY--HO422AA72GVFMY--HO422AA46GKRMY--HO422AA53GKKMY",
+    "Headline": "Hollister Now on ZALORA",
+    "Subline": "A carefree California style that makes the spirit of Summer endless",
+    "EventLabel": "BRA|Women|whollister|ALL|NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_fresh_picks_segment_hero_996x500.jpg",
+    "Exit Url": "/women/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wfreshpicks|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/JellyShoes_360x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=jelly-shoes",
+    "Headline": "READY FOR JELLY",
+    "Subline": "Color your summer with a fun and comfy pair of jelly shoes",
+    "EventLabel": "TRE|Women|wjellyshoes|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HOLLISTER_N2_620x420.jpg",
+    "Exit Url": "/women/hollister/?getSKU=%20HO422AA47GKQMY--HO422AA44GKTMY--HO422AA42GKVMY--HO422AA72GVFMY--HO422AA46GKRMY--HO422AA53GKKMY",
+    "Headline": "Hollister",
+    "Subline": "A carefree California style that makes the spirit of Summer endless",
+    "EventLabel": "BRA|Women|whollister|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CropItLikeItsHot_CU1_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=crop-it",
+    "Headline": "CROP IT LIKE IT'S HOT",
+    "Subline": "Summer has officially begun and it's time to flaunt the official clothing of the season!",
+    "EventLabel": "TRE|Women|wcroptops|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/BELO ZAP Sunexpert ZAP_CU3_360x420.jpg",
+    "Exit Url": "/women/beauty/bath-body/belo/?sort=latest%20arrival&getSKU=BE923BE70PCRPH--BE923BE14EDXPH--BE923BE13EDYPH--BE923BE99RJSPH",
+    "Headline": "Sun's Out from Belo",
+    "Subline": "Stay protected this summer season with Belo's Sunexpert line",
+    "EventLabel": "BRA|Women|wbelosunexpert|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/ShapesandCurves_ZAP_apr17_360x420.jpg",
+    "Exit Url": "/women/shapes-and-curves/?sort=latest%20arrival",
+    "Headline": "THE BEST OF SUMMER FROM SHAPES AND CURVES",
+    "Subline": "Soak up the sun this summer season with these essentials",
+    "EventLabel": "BRA|Women|wshapesandcurves|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Summer_Essentials_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=summer-heat",
+    "Headline": "SUMMER ESSENTIALS",
+    "Subline": "Beat the heat with this season's must-haves",
+    "EventLabel": "TRE|Women|wsummeressentials|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170417_zalora_featured-brand_322x165.jpg",
+    "Exit Url": "/women/zalora/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wzalora|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170417_somethingborrowed_featured-brand_322x165.jpg",
+    "Exit Url": "/women/something-borrowed/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wsomethingborrowed|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170417_cln_featured-brand_322x165.jpg",
+    "Exit Url": "/women/cln",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wcln|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/ShapesandCurves_ZAP_apr17_360x420.jpg",
+    "Exit Url": "/women/shapes-and-curves/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wshapesandcurves|ALL|ZAP"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170417_Nica_B1-6_322x165.jpg",
+    "Exit Url": "/women/nica",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wnica|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170417_happyskin_featured-brand_322x165.jpg",
+    "Exit Url": "/women/beauty/happy-skin",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|whappyskin|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_Strappy_Sandals_300x198-4.jpg",
+    "Exit Url": "/women/shoes/strappy-sandals/",
+    "Headline": "Shop Strappy Sandals >",
+    "Subline": "Shop Strappy Sandals >",
+    "EventLabel": "CAT|Women|wsandals|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_sunglasses_300x198-3.jpg",
+    "Exit Url": "/women/accessories/square/",
+    "Headline": "Shop Square Sunglasses >",
+    "Subline": "Shop Square Sunglasses >",
+    "EventLabel": "CAT|Women|wsquaresunglasses|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_375x500_Maxi Dresses.jpg",
+    "Exit Url": "/women/clothing/midi-maxi-dresses/",
+    "Headline": "Shop Maxi Dresses >",
+    "Subline": "Shop Maxi Dresses >",
+    "EventLabel": "CAT|Women|wmaxidress|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_Bags_300x198-5.jpg",
+    "Exit Url": "/women/bags/backpacks",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "CAT|Women|wbackpacks|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_sportsbra_300x198-2.jpg",
+    "Exit Url": "/women/sports/sports-tops/",
+    "Headline": "Shop Sports Tops >",
+    "Subline": "Shop Sports Tops >",
+    "EventLabel": "CAT|Women|wsportstops|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/hollister/?getSKU=HO422AA37GOWMY--HO422AA24GPJMY--HO422AA77GREMY--HO422AA69GRMMY--HO422US43GOQMY--HO422AA65GRQMY",
+    "Headline": "Hollister Now on ZALORA",
+    "Subline": "A carefree California style that makes the spirit of Summer endless",
+    "EventLabel": "BRA|Men|mhollister|ALL|NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Hollister_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/men/hollister/?getSKU=HO422AA37GOWMY--HO422AA24GPJMY--HO422AA77GREMY--HO422AA69GRMMY--HO422US43GOQMY--HO422AA65GRQMY",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mhollister|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Freewaters_N2_620x420.jpg",
+    "Exit Url": "/men/freewaters/",
+    "Headline": "Freewaters",
+    "Subline": "Now on ZALORA",
+    "EventLabel": "BRA|Men|mfreewaters|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men-Summer-essentials_620x420.jpg",
+    "Exit Url": "/men/trends/summer-essentials/",
+    "Headline": "Summer Essentials",
+    "Subline": "Beat the heat with this season's must-haves",
+    "EventLabel": "TRE|Men|msummeressentials|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20171204_FB_M_Dsk_322x165_IslandHaze.png",
+    "Exit Url": "/men/island-haze/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mislandhaze|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/MSS_PHASE2_FB_Rayban_B1-6_322x165.jpg",
+    "Exit Url": "/men/special-price/ray-ban/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mrayban|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20171204_FB_M_Dsk_322x165_FoldedHung.png",
+    "Exit Url": "/men/folded-hung/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|foldedandhung|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20171204_FB_M_Dsk_322x165_MauiSons.png",
+    "Exit Url": "/men/maui-sons/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mmauisons|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20171204_FB_M_Dsk_322x165_Levis.png",
+    "Exit Url": "/men/levi-s/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mlevis|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20171204_FB_M_322x165 Sebago.jpg",
+    "Exit Url": "/men/sebago/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mrayban|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_shorts.jpg",
+    "Exit Url": "/men/clothing/shorts/",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "CAT|Men|mshorts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_travelbags.jpg",
+    "Exit Url": "/men/bags/travel-bags/",
+    "Headline": "Shop Travel Bags >",
+    "Subline": "Shop Travel Bags >",
+    "EventLabel": "CAT|Men|mtravelbags|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_swimwear.jpg",
+    "Exit Url": "/men/clothing/swimwear/",
+    "Headline": "Shop Swimwear >",
+    "Subline": "Shop Swimwear >",
+    "EventLabel": "CAT|Men|mswimwear|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_slippers.jpg",
+    "Exit Url": "/men/shoes/sandals-flip-flops/",
+    "Headline": "Shop Slippers & Flip Flops >",
+    "Subline": "Shop Slippers & Flip Flops >",
+    "EventLabel": "CAT|Men|mslippers|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_skincare.jpg",
+    "Exit Url": "/men/grooming/",
+    "Headline": "Shop Skincare >",
+    "Subline": "Shop Skincare >",
+    "EventLabel": "CAT|Men|mskincare|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_fresh_picks_mobileweb_hero_600x600.jpg",
+    "Exit Url": "/women/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wfreshpicks|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HOLLISTER_N2_620x420.jpg",
+    "Exit Url": "/women/hollister/",
+    "Headline": "Hollister",
+    "Subline": "A carefree California style that makes the spirit of Summer endless",
+    "EventLabel": "BRA|Women|whollister|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/ShapesandCurves_ZAP_apr17_360x420.jpg",
+    "Exit Url": "/women/shapes-and-curves/?sort=latest%20arrival",
+    "Headline": "THE BEST OF SUMMER FROM SHAPES AND CURVES",
+    "Subline": "Soak up the sun this summer season with these essentials",
+    "EventLabel": "BRA|Women|wshapesandcurves|ALL|ZAP"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_Strappy_Sandals_300x198-4.jpg",
+    "Exit Url": "/women/shoes/strappy-sandals/",
+    "Headline": "Shop Strappy Sandals >",
+    "Subline": "Shop Strappy Sandals >",
+    "EventLabel": "CAT|Women|wsandals|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_sunglasses_300x198-3.jpg",
+    "Exit Url": "/women/accessories/square/",
+    "Headline": "Shop Square Sunglasses >",
+    "Subline": "Shop Square Sunglasses >",
+    "EventLabel": "CAT|Women|wsquaresunglasses|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Hollister_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/men/hollister/?getSKU=HO422AA37GOWMY--HO422AA24GPJMY--HO422AA77GREMY--HO422AA69GRMMY--HO422US43GOQMY--HO422AA65GRQMY",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mhollister|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Freewaters_N2_620x420.jpg",
+    "Exit Url": "/men/freewaters/",
+    "Headline": "Freewaters",
+    "Subline": "Now on ZALORA",
+    "EventLabel": "BRA|Men|mfreewaters|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men-Summer-essentials_620x420.jpg",
+    "Exit Url": "/men/trends/summer-essentials/",
+    "Headline": "Summer Essentials",
+    "Subline": "Beat the heat with this season's must-haves",
+    "EventLabel": "TRE|Men|msummeressentials|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_shorts.jpg",
+    "Exit Url": "/men/clothing/shorts/",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "CAT|Men|mshorts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_slippers.jpg",
+    "Exit Url": "/men/shoes/sandals-flip-flops/",
+    "Headline": "Shop Slippers & Flip Flops >",
+    "Subline": "Shop Slippers & Flip Flops >",
+    "EventLabel": "CAT|Men|mslippers|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Hollister_322x300_1.jpg",
+    "Exit Url": "/men/hollister/?getSKU=HO422AA37GOWMY--HO422AA24GPJMY--HO422AA77GREMY--HO422AA69GRMMY--HO422US43GOQMY--HO422AA65GRQMY",
+    "Headline": "Hollister",
+    "Subline": "Now on ZALORA",
+    "EventLabel": "BRA|Unisex|hollister|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SummerEssentials_322x300.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=summer-heat",
+    "Headline": "Summer Essentials",
+    "Subline": "Beat the heat with this season's must-haves",
+    "EventLabel": "BRA|Women|wsummeressentials|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SunsOut_322x300.jpg",
+    "Exit Url": "/men/sports/new-products/",
+    "Headline": "Sun's Out, Sweat Out",
+    "Subline": "Get back to your workout routine for that beach-ready body",
+    "EventLabel": "BRA|Men|msportsnewarrivals|ALL|NA"
+  }
+]
