@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/dorothy-perkins",
+    "Headline": "Dorothy Perkins : NOW ON ZALORA",
+    "Subline": "Shop Now >",
+    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dorothy Perkins Hero_996x500.jpg",
+    "Exit Url": "/women/dorothy-perkins-shop",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/Denim_Trend_Part_1_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/denimpage/",
+    "Headline": "Destination Denim",
+    "Subline": "Start your journey with our best denim picks this Spring",
+    "EventLabel": "TRE|Women|wdenimtrendpart1|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Flat Out_620x420.jpg",
+    "Exit Url": "/women/shoes/flats/?sort=popularity&price=250-999",
+    "Headline": "FLAT OUT FANTASTIC",
+    "Subline": "Grab these must-have pairs at P999 and below",
+    "EventLabel": "CAT|Women|wflatsunder999|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Bohemian Dreams_CU1_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=bohemian-dreams",
+    "Headline": "BOHEMIAN DREAMS",
+    "Subline": "Luxurious boho styles in a triumph of colors to celebrate the summer season",
+    "EventLabel": "TRE|Women|wbohemiandream|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SummerProof_N1-CU2-CU3_360x420.jpg",
+    "Exit Url": "/women/beauty/skincare",
+    "Headline": "Summer Proof Skin",
+    "Subline": "All the right essentials to keep your skin protected this season",
+    "EventLabel": "CAT|Women|wsummerproof|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Full and Feminine_360x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=full-feminine",
+    "Headline": "FULL & FEMININE",
+    "Subline": "Embrace your ladylike side and stay fashion forward with voluminous skirts",
+    "EventLabel": "TRE|Women|wfullfeminine|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/ASNTMs5_ep4_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/asias-next-top-model-5/",
+    "Headline": "Trend Roundup - Episode 4",
+    "Subline": "Grab these retro-esque staples for your very own wardrobe revival",
+    "EventLabel": "MRC|Women|masntms5ep4|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-04-21_Puma_B1-6_322x165.jpg",
+    "Exit Url": "/women/sports/puma",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wpuma|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-04-21_MANGO_Trend-Segment_15-17.jpg",
+    "Exit Url": "/women/mango",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wmango|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Lipault_Featured Brand_322x165.png",
+    "Exit Url": "/women/lipault/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wlipault|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-04-21_Keds_Onsite-Featured-Brand_322x165.jpg",
+    "Exit Url": "/women/shoes/keds/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wkeds|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170417_Nica_B1-6_322x165.jpg",
+    "Exit Url": "/women/nica",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wnica|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-04-21_PlainsPrints_featured-brand_322x165.jpg",
+    "Exit Url": "/women/clothing/plains-prints",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wplainsprints|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_Strappy_Sandals_300x198-4.jpg",
+    "Exit Url": "/women/shoes/strappy-sandals/",
+    "Headline": "Shop Strappy Sandals >",
+    "Subline": "Shop Strappy Sandals >",
+    "EventLabel": "CAT|Women|wsandals|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_sunglasses_300x198-3.jpg",
+    "Exit Url": "/women/accessories/square/",
+    "Headline": "Shop Square Sunglasses >",
+    "Subline": "Shop Square Sunglasses >",
+    "EventLabel": "CAT|Women|wsquaresunglasses|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_375x500_Maxi Dresses.jpg",
+    "Exit Url": "/women/clothing/midi-maxi-dresses/",
+    "Headline": "Shop Maxi Dresses >",
+    "Subline": "Shop Maxi Dresses >",
+    "EventLabel": "CAT|Women|wmaxidress|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_Bags_300x198-5.jpg",
+    "Exit Url": "/women/bags/backpacks",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "CAT|Women|wbackpacks|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_sportsbra_300x198-2.jpg",
+    "Exit Url": "/women/sports/sports-tops/",
+    "Headline": "Shop Sports Tops >",
+    "Subline": "Shop Sports Tops >",
+    "EventLabel": "CAT|Women|wsportstops|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/burton-menswear-london/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/burton_segment_hero_996x500.jpg",
+    "Exit Url": "/men/burton-menswear-london/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/You Got Framed N1_360x420.jpg",
+    "Exit Url": "/men/accessories/eyewear-sunglasses/special-price/",
+    "Headline": "YOU GOT FRAMED",
+    "Subline": "Find the ultimate summer essential from our sunglasses up to 50% off",
+    "EventLabel": "CAT|Men|myougotframed|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Jaxon_NewA_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/jaxon-shop/",
+    "Headline": "Jaxon",
+    "Subline": "Get acquainted with casual wear that’s made to tackle work and play",
+    "EventLabel": "BRA|Men|mjaxon|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/20170421_Dsk_322x165_havaianas.jpg",
+    "Exit Url": "/men/havaianas/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mhavaianas|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/20170421_Dsk_322x165_topman.jpg",
+    "Exit Url": "/men/topman/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mtopman|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/20170421_Dsk_322x165_onitsuka-tiger.jpg",
+    "Exit Url": "/men/onitsuka-tiger/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|monitsukatiger|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/20170421_Italianos_322x165.jpg",
+    "Exit Url": "/men/italianos/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mitalianos|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/20170421_Nike_B1-6_322x165.jpg",
+    "Exit Url": "/men/nike/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mnike|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/20170421_Superdry_B1-6_322x165.jpg",
+    "Exit Url": "/men/superdry/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|msuperdry|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_shorts.jpg",
+    "Exit Url": "/men/clothing/shorts/",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "CAT|Men|mshorts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_travelbags.jpg",
+    "Exit Url": "/men/bags/travel-bags/",
+    "Headline": "Shop Travel Bags >",
+    "Subline": "Shop Travel Bags >",
+    "EventLabel": "CAT|Men|mtravelbags|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_swimwear.jpg",
+    "Exit Url": "/men/clothing/swimwear/",
+    "Headline": "Shop Swimwear >",
+    "Subline": "Shop Swimwear >",
+    "EventLabel": "CAT|Men|mswimwear|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_slippers.jpg",
+    "Exit Url": "/men/shoes/sandals-flip-flops/",
+    "Headline": "Shop Slippers & Flip Flops >",
+    "Subline": "Shop Slippers & Flip Flops >",
+    "EventLabel": "CAT|Men|mslippers|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_skincare.jpg",
+    "Exit Url": "/men/grooming/",
+    "Headline": "Shop Skincare >",
+    "Subline": "Shop Skincare >",
+    "EventLabel": "CAT|Men|mskincare|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dorothy Perkins MobileSkinny_700x200.jpg",
+    "Exit Url": "/women/dorothy-perkins",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dorothy Perkins Web Hero_600x600.jpg",
+    "Exit Url": "/women/dorothy-perkins",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/landingpages/Denim_Trend_Part_1_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/denimpage/",
+    "Headline": "Destination Denim",
+    "Subline": "Start your journey with our best denim picks this Spring",
+    "EventLabel": "TRE|Women|wdenimtrendpart1|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Flat Out_620x420.jpg",
+    "Exit Url": "/women/shoes/flats/?sort=popularity&price=250-999",
+    "Headline": "FLAT OUT FANTASTIC",
+    "Subline": "Grab these must-have pairs at P999 and below",
+    "EventLabel": "CAT|Women|wflatsunder999|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_Bags_300x198-5.jpg",
+    "Exit Url": "/women/bags/backpacks",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "CAT|Women|wbackpacks|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_fb_sportsbra_300x198-2.jpg",
+    "Exit Url": "/women/sports/sports-tops/",
+    "Headline": "Shop Sports Tops >",
+    "Subline": "Shop Sports Tops >",
+    "EventLabel": "CAT|Women|wsportstops|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/burton_mobileweb_skinnyGIF_700x200.gif",
+    "Exit Url": "/men/burton-menswear-london/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Burton_mobileweb_hero_600x600.jpg",
+    "Exit Url": "/men/burton-menswear-london/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/You Got Framed N2_620x420.jpg",
+    "Exit Url": "/men/accessories/eyewear-sunglasses/special-price/",
+    "Headline": "YOU GOT FRAMED",
+    "Subline": "Find the ultimate summer essential from our sunglasses up to 50% off",
+    "EventLabel": "CAT|Women|wyougotframed|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Jaxon_NewA_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/jaxon/new-products/",
+    "Headline": "Jaxon",
+    "Subline": "Get acquainted with casual wear that’s made to tackle work and play",
+    "EventLabel": "BRA|Men|mjaxon|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_slippers.jpg",
+    "Exit Url": "/men/shoes/sandals-flip-flops/",
+    "Headline": "Shop Slippers & Flip Flops >",
+    "Subline": "Shop Slippers & Flip Flops >",
+    "EventLabel": "CAT|Men|mslippers|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170412_women_cat-1_travelbags.jpg",
+    "Exit Url": "/men/bags/travel-bags/",
+    "Headline": "Shop Travel Bags >",
+    "Subline": "Shop Travel Bags >",
+    "EventLabel": "CAT|Men|mtravelbags|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170421_Homepage_DorothyPerkins.jpg",
+    "Exit Url": "/women/dorothy-perkins/",
+    "Headline": "Dorothy Perkins",
+    "Subline": "Now on Zalora",
+    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170421_Homepage_FlatOut.jpg",
+    "Exit Url": "/women/shoes/flats/?sort=popularity&price=250-999",
+    "Headline": "FLAT OUT FANTASTIC",
+    "Subline": "Grab these must-have pairs at P999 and below",
+    "EventLabel": "CAT|Women|wflatsunder999|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170421_Homepage_Burton.jpg",
+    "Exit Url": "/men/burton-menswear-london/",
+    "Headline": "Burton Menswear London",
+    "Subline": "Now on Zalora",
+    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
+  }
+]
