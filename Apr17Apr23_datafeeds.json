@@ -73,21 +73,21 @@
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/BELO ZAP Sunexpert ZAP_CU3_360x420.jpg",
-    "Exit Url": "/women/beauty/bath-body/belo/?sort=latest%20arrival&getSKU=BE923BE70PCRPH--BE923BE14EDXPH--BE923BE13EDYPH--BE923BE99RJSPH",
-    "Headline": "Sun's Out from Belo",
-    "Subline": "Stay protected this summer season with Belo's Sunexpert line",
-    "EventLabel": "BRA|Women|wbelosunexpert|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_Suns_Out-Women.jpg",
+    "Exit Url": "/women/new-products/",
+    "Headline": "Sun's Out",
+    "Subline": "Get back to your workout routine for that beach-ready body",
+    "EventLabel": "BRA|Women|wsportsnewproducts|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/ShapesandCurves_ZAP_apr17_360x420.jpg",
-    "Exit Url": "/women/shapes-and-curves/?sort=latest%20arrival",
-    "Headline": "THE BEST OF SUMMER FROM SHAPES AND CURVES",
-    "Subline": "Soak up the sun with these beach essentials",
-    "EventLabel": "BRA|Women|wshapesandcurves|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N1_360x420_Women_Ground_Rules.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=ground-rules",
+    "Headline": "GROUND RULES",
+    "Subline": "Put your best foot forward with these classic styles and neutral hues",
+    "EventLabel": "BRA|Women|wgroundrules|ALL|NA"
   },
   {
     "Placement": "wcu4",
@@ -133,11 +133,11 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170417_Shapes_and Curves_B1-6_322x165.jpg",
-    "Exit Url": "/women/shapes-and-curves/?sort=latest%20arrival",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170417_Kats_Clothing_featured-brand_322x165.jpg",
+    "Exit Url": "/women/kats-clothing/?sort=latest%20arrival",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|wshapesandcurves|ALL|ZAP"
+    "EventLabel": "BRA|Women|wkatsclothing|ALL|ZAP"
   },
   {
     "Placement": "wfb5",
