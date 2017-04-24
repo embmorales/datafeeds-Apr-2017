@@ -523,11 +523,11 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170421_Homepage_FlatOut.jpg",
-    "Exit Url": "/women/shoes/flats/?sort=popularity&price=250-999",
-    "Headline": "FLAT OUT FANTASTIC",
-    "Subline": "Grab these must-have pairs at P999 and below",
-    "EventLabel": "CAT|Women|wflatsunder999|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Homepage_Bottom-Watch_Out.jpg",
+    "Exit Url": "/women/watches/new-products/",
+    "Headline": "WATCH OUT",
+    "Subline": "Never miss a minute with our latest collection of watches",
+    "EventLabel": "CAT|Women|wwatchout|ALL|NA"
   },
   {
     "Placement": "ub3",
