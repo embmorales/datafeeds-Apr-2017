@@ -4,30 +4,30 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/dorothy-perkins",
-    "Headline": "Dorothy Perkins : NOW ON ZALORA",
-    "Subline": "Shop Now >",
-    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "wsl1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/dorothy-perkins",
+    "Headline": "Dorothy Perkins : NOW ON ZALORA",
+    "Subline": "Shop Now >",
+    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/special-price/",
+    "Headline": "SALE UP TO 40% OFF",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Women|wsaleupto40off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -214,30 +214,30 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/burton-menswear-london/",
-    "Headline": "Burton Menswear London : Now on ZALORA",
-    "Subline": "Shop Now >",
-    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "msl1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/men/burton-menswear-london/",
+    "Headline": "Burton Menswear London : Now on ZALORA",
+    "Subline": "Shop Now >",
+    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/special-price/",
+    "Headline": "SALE UP TO 40% OFF",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Women|wsaleupto40off|ALL|NA"
   },
   {
     "Placement": "mh1",
