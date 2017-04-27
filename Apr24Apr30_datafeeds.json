@@ -24,7 +24,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/new-products/?vc=lbrday21",
+    "Exit Url": "/women/new-products/?vc=lbrday20",
     "Headline": "Get 15% off Storewide! Use code: LBRDAY15",
     "Subline": "Minimum spend P2,000. Valid on sale and new arrivals. Ends May 2, 11:59 p.m. Brand Exclusions apply.",
     "EventLabel": "SAL|Women|wlaborday15off|ALL|NA"
@@ -234,7 +234,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/new-products/?vc=lbrday21",
+    "Exit Url": "/men/new-products/?vc=lbrday20",
     "Headline": "Get 15% off Storewide! Use code: LBRDAY15",
     "Subline": "Minimum spend P2,000. Valid on sale and new arrivals. Ends May 2, 11:59 p.m. Brand Exclusions apply.",
     "EventLabel": "SAL|Men|mlaborday15off|ALL|NA"
@@ -383,11 +383,11 @@
     "Placement": "ws1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Dorothy Perkins MobileSkinny_700x200.jpg",
-    "Exit Url": "/women/dorothy-perkins",
+    "Image": "https://static-ph.zacdn.com/cms/DY/laborday_mobile_skinny_700x200.gif",
+    "Exit Url": "/women/all-products/?vc=lbrday20",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
+    "EventLabel": "SAL|Women|wlaborday20off15off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -443,11 +443,11 @@
     "Placement": "ms1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/burton_mobileweb_skinnyGIF_700x200.gif",
-    "Exit Url": "/men/burton-menswear-london/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/laborday_mobile_skinny_700x200.gif",
+    "Exit Url": "/men/all-products/?vc=lbrday20",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
+    "EventLabel": "SAL|Men|mlaborday20off15off|ALL|NA"
   },
   {
     "Placement": "mh1",
