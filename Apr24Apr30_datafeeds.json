@@ -53,11 +53,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Flat Out_620x420.jpg",
-    "Exit Url": "/women/shoes/flats/?sort=popularity&price=250-999",
-    "Headline": "FLAT OUT FANTASTIC",
-    "Subline": "Grab these must-have pairs at P999 and below",
-    "EventLabel": "CAT|Women|wflatsunder999|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_640x420_DorothyPerkins_Launch.jpg",
+    "Exit Url": "/women/dorothy-perkins-shop",
+    "Headline": "Dorothy Perkins: Now on ZALORA",
+    "Subline": "Shop the latest in feminine fashion and stylish signature prints",
+    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -263,11 +263,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Jaxon_NewA_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/jaxon-shop/",
-    "Headline": "Jaxon",
-    "Subline": "Get acquainted with casual wear that’s made to tackle work and play",
-    "EventLabel": "BRA|Men|mjaxon|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2-CU1-CU4_620x420_burton_menswear.jpg",
+    "Exit Url": "/men/burton-menswear-london/",
+    "Headline": "Burton Menswear London: Now on ZALORA",
+    "Subline": "Look sharp both at work and play",
+    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Flat Out_620x420.jpg",
-    "Exit Url": "/women/shoes/flats/?sort=popularity&price=250-999",
-    "Headline": "FLAT OUT FANTASTIC",
-    "Subline": "Grab these must-have pairs at P999 and below",
-    "EventLabel": "CAT|Women|wflatsunder999|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_640x420_DorothyPerkins_Launch.jpg",
+    "Exit Url": "/women/dorothy-perkins-shop",
+    "Headline": "Dorothy Perkins: Now on ZALORA",
+    "Subline": "Shop the latest in feminine fashion and stylish signature prints",
+    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -473,11 +473,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Jaxon_NewA_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/jaxon/new-products/",
-    "Headline": "Jaxon",
-    "Subline": "Get acquainted with casual wear that’s made to tackle work and play",
-    "EventLabel": "BRA|Men|mjaxon|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2-CU1-CU4_620x420_burton_menswear.jpg",
+    "Exit Url": "/men/burton-menswear-london/",
+    "Headline": "Burton Menswear London: Now on ZALORA",
+    "Subline": "Look sharp both at work and play",
+    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
   },
   {
     "Placement": "mc1",
