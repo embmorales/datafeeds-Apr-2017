@@ -43,11 +43,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/landingpages/Denim_Trend_Part_1_N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/women/denimpage/",
-    "Headline": "Destination Denim",
-    "Subline": "Start your journey with our best denim picks this Spring",
-    "EventLabel": "TRE|Women|wdenimtrendpart1|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/GenericSale_20170427_W_N1-CU2-CU3_360x420.jpg",
+    "Exit Url": "/women/special-price/",
+    "Headline": "Summer is Calling",
+    "Subline": "Don't miss this sale! <span style = \"color:#ff0000\">Up to 70% off!</span>",
+    "EventLabel": "SAL|Women|wgenericsale|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -253,11 +253,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/You Got Framed N1_360x420.jpg",
-    "Exit Url": "/men/accessories/eyewear-sunglasses/special-price/",
-    "Headline": "YOU GOT FRAMED",
-    "Subline": "Find the ultimate summer essential from our sunglasses up to 50% off",
-    "EventLabel": "CAT|Men|myougotframed|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/GenericSale_20170427_M_N1-CU2-CU3_360x420.jpg",
+    "Exit Url": "/men/special-price/",
+    "Headline": "Summer is Calling",
+    "Subline": "Don't miss this sale! <span style = \"color:#ff0000\">Up to 70% off!</span>",
+    "EventLabel": "SAL|Men|mgenericsale|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -403,11 +403,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/landingpages/Denim_Trend_Part_1_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/denimpage/",
-    "Headline": "Destination Denim",
-    "Subline": "Start your journey with our best denim picks this Spring",
-    "EventLabel": "TRE|Women|wdenimtrendpart1|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/GenericSale_20170427_W_N2-CU1-CU4_620x420.jpg",
+    "Exit Url": "/women/special-price/",
+    "Headline": "Summer is Calling",
+    "Subline": "Don't miss this sale! <span style = \"color:#ff0000\">Up to 70% off!</span>",
+    "EventLabel": "SAL|Women|wgenericsale|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -463,11 +463,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/You Got Framed N2_620x420.jpg",
-    "Exit Url": "/men/accessories/eyewear-sunglasses/special-price/",
-    "Headline": "YOU GOT FRAMED",
-    "Subline": "Find the ultimate summer essential from our sunglasses up to 50% off",
-    "EventLabel": "CAT|Women|wyougotframed|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/GenericSale_20170427_M_N2-CU1-CU4_620x420.jpg",
+    "Exit Url": "/men/special-price/",
+    "Headline": "Summer is Calling",
+    "Subline": "Don't miss this sale! <span style = \"color:#ff0000\">Up to 70% off!</span>",
+    "EventLabel": "SAL|Men|mgenericsale|ALL|NA"
   },
   {
     "Placement": "mn2",
