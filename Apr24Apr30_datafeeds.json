@@ -14,20 +14,20 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/dorothy-perkins",
-    "Headline": "Dorothy Perkins : NOW ON ZALORA",
-    "Subline": "Shop Now >",
-    "EventLabel": "BRA|Women|wdorothyperkinslaunch|ALL|NA"
+    "Exit Url": "/women/new-products/?vc=lbrday15",
+    "Headline": "Get 20% off Storewide! Use code: LBRDAY20",
+    "Subline": "Minimum spend P3,000. Valid on sale and new arrivals. Ends May 2, 11:59 p.m. Brand Exclusions apply",
+    "EventLabel": "SAL|Women|wlaborday20off|ALL|NA"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/special-price/",
-    "Headline": "SALE UP TO 40% OFF",
-    "Subline": "Shop Now >",
-    "EventLabel": "SAL|Women|wsaleupto40off|ALL|NA"
+    "Exit Url": "/women/new-products/?vc=lbrday21",
+    "Headline": "Get 15% off Storewide! Use code: LBRDAY15",
+    "Subline": "Minimum spend P2,000. Valid on sale and new arrivals. Ends May 2, 11:59 p.m. Brand Exclusions apply.",
+    "EventLabel": "SAL|Women|wlaborday15off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -224,20 +224,20 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/burton-menswear-london/",
-    "Headline": "Burton Menswear London : Now on ZALORA",
-    "Subline": "Shop Now >",
-    "EventLabel": "BRA|Men|mburtonmenswearlondonlaunch|ALL|NA"
+    "Exit Url": "/men/new-products/?vc=lbrday15",
+    "Headline": "Get 20% off Storewide! Use code: LBRDAY20",
+    "Subline": "Minimum spend P3,000. Valid on sale and new arrivals. Ends May 2, 11:59 p.m. Brand Exclusions apply",
+    "EventLabel": "SAL|Men|mlaborday20off|ALL|NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/special-price/",
-    "Headline": "SALE UP TO 40% OFF",
-    "Subline": "Shop Now >",
-    "EventLabel": "SAL|Men|msaleupto40off|ALL|NA"
+    "Exit Url": "/men/new-products/?vc=lbrday21",
+    "Headline": "Get 15% off Storewide! Use code: LBRDAY15",
+    "Subline": "Minimum spend P2,000. Valid on sale and new arrivals. Ends May 2, 11:59 p.m. Brand Exclusions apply.",
+    "EventLabel": "SAL|Men|mlaborday15off|ALL|NA"
   },
   {
     "Placement": "mh1",
